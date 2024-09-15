@@ -4,11 +4,6 @@
 #include <string.h>
 #include <time.h>
 
-/*For Testing Purposes visit: https://cpulator.01xz.net/?sys=nios-de1soc
- * OR
- * USE DE1SOC Board and VGA display
- */
-
 #define N 9
 #define VGA_CHAR_BUFFER_BASE 0x09000000
 int k=5;
