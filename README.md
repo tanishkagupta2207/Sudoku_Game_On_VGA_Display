@@ -9,4 +9,4 @@ A sudoku game with different difficulty levels that can be played on vga display
   ->Compile and load the program and then click continue
   ->The game will start running, you can view it on VGA pixel buffer section and handle controls from Switches and Push-Buttons
   ->0th index switch is considered to be 1st button and soon...
-  ->0th index push button is considered to be 1st. 
+  ->0th index push button is considered to be 1st.
