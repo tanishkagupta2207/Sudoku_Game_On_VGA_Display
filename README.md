@@ -2,6 +2,7 @@
 A sudoku game with different difficulty levels that can be played on vga display using Intel® DE1-SoC development and education board. Made using C language.
 
 # Testing
+
   ->Use a DE1-SOC board along with VGA Monitor to play the game
   ->OR Use simulator - https://cpulator.01xz.net/?sys=nios-de1soc
   ->Change language from Nios2 to C and paste the game code
