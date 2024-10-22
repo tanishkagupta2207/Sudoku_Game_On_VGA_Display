@@ -1,6 +1,9 @@
 # Sudoku_Game_On_VGA_Display
 A sudoku game with different difficulty levels that can be played on vga display using Intel® DE1-SoC development and education board. Made using C language.
 
+# Demo Video
+Link : https://drive.google.com/file/d/1YDsjOFCNbhS7die9AldFEAuwYwnGktNm/view?usp=sharing
+
 # Testing
 
     ->Use a DE1-SOC board along with VGA Monitor to play the game
